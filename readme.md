@@ -1,11 +1,7 @@
 Introduction
-
-
 Welcome to my chatbot project! This project is designed to provide first aid recommendations through a conversational interface. The chatbot is built using natural language processing techniques and a neural network for intent recognition.
 
 Technologies Used
-
-
 Programming Language: Python
 Libraries and Frameworks:
 nltk for natural language processing
