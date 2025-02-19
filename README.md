@@ -66,11 +66,6 @@ The `bag_of_words()` function converts user input into a numerical representatio
 
 ---
 
-## 📸 Demo
-![Chatbot Demo](https://media.giphy.com/media/JVGL96SdnxI21cUuJt/giphy.gif)
-
----
-
 ## 📢 Contributing
 Got ideas for improvement? Feel free to contribute! Fork the repo, make your changes, and submit a pull request.
 
